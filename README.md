@@ -31,3 +31,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=twentysevenwhy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
