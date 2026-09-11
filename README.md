@@ -42,4 +42,70 @@ I’m constantly learning and experimenting with new technologies, looking for o
 
 <br>
 
+<h3 align="center">Git Stats</h3>
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=twentysevenwhy&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00" alt="Most Commit Language">
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00">
+
+### Top Repositories
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/twentysevenwhy/Atlas">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Atlas&theme=dark&icon_color=f98a00&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/twentysevenwhy/Numi">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Numi&theme=dark&icon_color=f98a00&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/twentysevenwhy/Naturify">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Naturify&theme=dark&icon_color=f98a00&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/twentysevenwhy/Graduation">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Graduation&theme=dark&icon_color=f98a00&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+### GitHub Contribution Chart
+<a href="https://github.com/twentysevenwhy">
+    <img width="845" height="276" alt="image" src="https://github.com/user-attachments/assets/ed65f4bf-3706-4132-a2d9-c13dc9001a21" />
+
+</a>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
