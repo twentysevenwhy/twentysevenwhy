@@ -32,5 +32,14 @@
   <img src="https://komarev.com/ghpvc/?username=twentysevenwhy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
+<h2 align="center">🚀 About Me</h2>
+
+I’m a Full-Stack Developer with experience building web applications and working with both frontend and backend technologies. I enjoy understanding how things work under the hood, solving technical challenges, and creating products that are both functional and intuitive.
+
+I’m also interested in the creative side of technology. In my free time, I work with video editing, Blender, and photography. These interests have taught me to pay attention to visual details, composition, and the overall user experience.
+
+I’m constantly learning and experimenting with new technologies, looking for opportunities to grow as a developer and turn ideas into meaningful projects.
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
