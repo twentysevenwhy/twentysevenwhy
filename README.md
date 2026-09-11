@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm 27WHY</h1>
+<h1 align="center">Hello &nbsp;<a href=""><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm 27WHY</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=truewidth=435&lines=Full-Stack+Developer;Video+editor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EB5454&center=true&vCenter=truewidth=435&lines=Full-Stack+Developer;Video+editor" alt="Typing SVG" />
   
 </p>
 
@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=twentysevenwhy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=twentysevenwhy&color=EB5454&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
@@ -46,27 +46,27 @@ I’m constantly learning and experimenting with new technologies, looking for o
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=twentysevenwhy&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=twentysevenwhy&theme=dark&stroke=EB5454&ring=EB5454&currStreakNum=EB5454&currStreakLabel=EB5454&fire=EB5454&hide_border=true" alt="GitHub Streak" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00" alt="Top Languages">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=twentysevenwhy&theme=dark&icon_color=EB5454&chart_color=EB5454" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=twentysevenwhy&theme=dark&icon_color=EB5454&chart_color=EB5454">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=twentysevenwhy&theme=dark&icon_color=EB5454&chart_color=EB5454" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twentysevenwhy&theme=dark&icon_color=f98a00&chart_color=f98a00">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twentysevenwhy&theme=dark&icon_color=EB5454&chart_color=EB5454">
 
 ### Top Repositories
 <div align="center">
@@ -74,24 +74,24 @@ I’m constantly learning and experimenting with new technologies, looking for o
     <tr>
       <td>
         <a href="https://github.com/twentysevenwhy/Atlas">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Atlas&theme=dark&icon_color=f98a00&hide_border=true" />
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Atlas&theme=dark&icon_color=EB5454&hide_border=true" />
         </a>
       </td>
       <td>
         <a href="https://github.com/twentysevenwhy/Numi">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Numi&theme=dark&icon_color=f98a00&hide_border=true" />
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Numi&theme=dark&icon_color=EB5454&hide_border=true" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/twentysevenwhy/Naturify">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Naturify&theme=dark&icon_color=f98a00&hide_border=true" />
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Naturify&theme=dark&icon_color=EB5454&hide_border=true" />
         </a>
       </td>
       <td>
         <a href="https://github.com/twentysevenwhy/Graduation">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Graduation&theme=dark&icon_color=f98a00&hide_border=true" />
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=twentysevenwhy&repo=Graduation&theme=dark&icon_color=EB5454&hide_border=true" />
         </a>
       </td>
     </tr>
