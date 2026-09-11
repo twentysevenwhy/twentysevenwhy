@@ -107,5 +107,11 @@ I’m constantly learning and experimenting with new technologies, looking for o
 </a>
 
 <br>
+<br>
+
+  ### 🏆 GitHub Profile Trophy
+  <br>
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=twentysevenwhy&theme=monokai&no-frame=true&column=3&title=-Reviews,-Experience&margin-w=15&margin-h=15&" alt="GitHub Profile Trophy">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
