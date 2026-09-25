@@ -46,7 +46,7 @@ I’m constantly learning and experimenting with new technologies, looking for o
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com?user=twentysevenwhy&theme=dark&stroke=EB5454&ring=EB5454&currStreakNum=EB5454&currStreakLabel=EB5454&fire=EB5454&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=twentysevenwhy&theme=dark&stroke=EB5454&ring=EB5454&mode=weekly&currStreakNum=EB5454&currStreakLabel=EB5454&fire=EB5454&hide_border=true" />
 
 <br>
 <div align="center">
