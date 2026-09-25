@@ -98,14 +98,6 @@ I’m constantly learning and experimenting with new technologies, looking for o
   </table>
 </div>
 
-
-
-### GitHub Contribution Chart
-<a href="https://github.com/twentysevenwhy">
-    <img width="845" height="276" alt="image" src="https://github.com/user-attachments/assets/ed65f4bf-3706-4132-a2d9-c13dc9001a21" />
-
-</a>
-
 <br>
 <br>
 
